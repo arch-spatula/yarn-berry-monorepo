@@ -28,6 +28,8 @@ export default function Home() {
       </div>
 
       <p>{sayHello()}</p>
+      <p>{sayHello()}</p>
+      <p>{sayHello()}</p>
       <Button variant="contained">{"hello it's me"}</Button>
 
       <div className={styles.grid}>
