@@ -25,6 +25,7 @@ export default function Home() {
 
       <h2>Admin</h2>
       <h2>Admin 2</h2>
+      <h2>Admin 3</h2>
 
       <div className={styles.center}>
         <Image className={styles.logo} src="/next.svg" alt="Next.js Logo" width={180} height={37} priority />
